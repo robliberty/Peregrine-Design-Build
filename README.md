@@ -1,2 +1,2 @@
-# peregrine_design_build
-Peregrin Design/Build - Design
+# Peregrine Design/Build
+Peregrin Design/Build - Design for Eternity
